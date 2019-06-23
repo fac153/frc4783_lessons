@@ -1,0 +1,6 @@
+.cproject
+.project
+.metadata/*
+*.o
+*.exe
+*.swp
